@@ -1,0 +1,13 @@
+# Core numerical stack
+pandas>=2.0
+numpy>=1.24
+scipy>=1.10
+
+# Excel reader for datasets/SectoralBrazilianClassification.xlsx
+openpyxl>=3.1
+
+# Figures produced by analise_experimentos.py and setores_b3.py
+matplotlib>=3.7
+
+# Risk Parity benchmark (RP.py). Everything else runs without it.
+riskfolio-lib>=7.0
